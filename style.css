@@ -38,10 +38,9 @@ p {
 }
 .buttons {
   display: flex;
+  position: absolute;
 }
-.us{position: absolute;
-    margin-top: 10px;
-    margin-bottom: 900px;
+.us{position: relative;
 }
 .div {
   display: flex;
